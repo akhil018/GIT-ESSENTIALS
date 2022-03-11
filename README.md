@@ -1,6 +1,7 @@
 # GIT-ESSENTIALS
 Git commands used everyday will be available here
-Add/Push existing project to git
+
+# Push existing project to git
 
 git init
 
